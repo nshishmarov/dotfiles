@@ -1,0 +1,10 @@
+[font]
+normal.family = "MesloLGM Nerd Font Mono"
+normal.style = "Regular"
+bold.family = "MesloLGM Nerd Font Mono"
+bold.style = "Bold"
+italic.family = "MesloLGM Nerd Font Mono"
+italic.style = "Italic"
+bold_italic.family = "MesloLGM Nerd Font Mono"
+bold_italic.style = "Bold Italic"
+size = 13.0
